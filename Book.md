@@ -14,12 +14,23 @@ Chapters
   * callcc
   * shift/reset
   * Felleisens all weird ones
+* Encoding Control using Continuations
+  * Cooperative threads
 * Continuation Passing Style
 * Types and Continuations
 * Compiling with Continuations
   * Intermediate language
 * Continuations in Logic
 * Continuations and Natural Language
+
+# Encoding Control using Continuations
+
+## Cooperative threads.
+
+Important paper:
+Safe-for-Space Threads in Standard ML
+
+http://www.westpoint.edu/eecs/SiteAssets/SitePages/Faculty%20Publication%20Documents/Okasaki/cw97threads.pdf
 
 # Compilation and Continuation
 
